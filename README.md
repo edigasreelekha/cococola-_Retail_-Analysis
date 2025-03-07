@@ -20,7 +20,7 @@ This repository contains a dashboard visualizing Coca-Cola sales performance acr
 * **Time-Series Analysis:** Comparison of sales data between 2022 and 2023 to identify growth and variance.
 
 # TO SEE DASHBOARD
-[Click Here]()
+[Click Here](https://github.com/edigasreelekha/cococola-_Retail_-Analysis/blob/main/CocoCola%20Dashboard.png)
 
 ## Data Source
 

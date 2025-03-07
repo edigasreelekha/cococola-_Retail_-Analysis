@@ -40,7 +40,7 @@ The data for this dashboard is derived from a retailer dataset, which includes t
 * **Operating Margin:** Percentage of profit relative to total sales.
 
 # TO SEE DATA
-[Click Here]()
+[Click Here](https://github.com/edigasreelekha/cococola-_Retail_-Analysis/blob/main/coco%20cola%20csv.csv)
 
 ## How to Use/Interpret the Dashboard
 

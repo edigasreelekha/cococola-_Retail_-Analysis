@@ -58,6 +58,20 @@ The data for this dashboard is derived from a retailer dataset, which includes t
 * **Forecasting:** Implement forecasting models to predict future sales trends.
 * **Geospatial Analysis:** Incorporate maps to visualize sales distribution geographically.
 
+ ## Contributing
+
+We welcome contributions to improve this project! If you have any suggestions, bug reports, or feature requests, please open an issue.
+
+If you'd like to contribute code, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with clear commit messages.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
+
+Please ensure your code adheres to the project's coding style guidelines and includes appropriate tests.
+
 
 ## License
 
